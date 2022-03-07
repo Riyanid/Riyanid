@@ -28,10 +28,9 @@
                                                                                     
  ### YouTube
 <p align="center">
-  <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_111807.gif" />
+  <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_120153.gif" />
 </p>  
                                                                              
-                                                                             ### Pubg mobile 🎮
 ### Pubg mobile 🎮
 <p align="center">
   <img src="https://github.com/Andriiwalker/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
