@@ -5,9 +5,10 @@
 
 <p align="center">
 
-- 👤 NAME : RIYAN🆔
-- 💌 AGE : 18 YEARS
-- ⏳ HOBBY : GAMING
+- 👤 My name is |2!¥απαDΔ
+- 💌 I am 18 years old 
+- 👨‍💻 I am not programmer
+
 
 </p>
 
