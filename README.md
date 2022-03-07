@@ -25,7 +25,13 @@
   <a href="https://www.youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=zeeone-ofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeone-ofc&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-
+                                                                                    
+ ### YouTube
+<p align="center">
+  <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_111807.gif" />
+</p>  
+                                                                             
+                                                                             ### Pubg mobile 🎮
 ### Pubg mobile 🎮
 <p align="center">
   <img src="https://github.com/Andriiwalker/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
