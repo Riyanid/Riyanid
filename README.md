@@ -31,9 +31,9 @@
   <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_120153.gif" />
 </p>  
                                                                              
-### Pubg mobile 🎮
+### Mobile Legend 🎮
 <p align="center">
-  <img src="https://github.com/Andriiwalker/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
+  <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_122407.gif" />
 </p>
 
 ------
