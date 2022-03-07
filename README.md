@@ -46,10 +46,10 @@
 <p align="center"><a href="https://github.com/Riyanid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanid&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Alphabot-Md&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Alphab0t&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Haruka&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=zeeone-ofc&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Riyanid&repo=Alphabot-Md&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Riyanid&repo=RubotXmd8&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Riyanid&repo=RubotX15&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Riyanid&repo=Riyanid&theme=nightowl)
 
 
 <details>
