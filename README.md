@@ -52,7 +52,7 @@
 <p align="center"><a href="https://github.com/Riyanid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanid&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Riyanid&repo=Kumpulan virtex&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Riyanid&repo=Kumpulan-Virtex&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Riyanid&repo=RubotXmd8&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Riyanid&repo=RubotX15&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Riyanid&repo=Riyanid&theme=nightowl)
