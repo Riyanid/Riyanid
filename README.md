@@ -31,10 +31,6 @@
   <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_120153.gif" />
 </p>  
                                                                              
-### Mobile Legend 🎮
-<p align="center">
-  <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_122407.gif" />
-</p>
 
 ------
 
@@ -71,3 +67,8 @@
 ![Metrics](https://metrics.lecoq.io/Riyanid?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details> 
+# Donate
+- [Saweria](https://saweria.co/Riyanid)
+- [Dana](https://telegra.ph/file/096d42dedcddef8085691.jpg)
+- [Ovo](https://telegra.ph/file/986bb741b0c1f7517972f.jpg)
+- [Qris](https://telegra.ph/file/cb879819dbed154671d86.jpg)
