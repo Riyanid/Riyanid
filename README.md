@@ -8,7 +8,7 @@
 - 👤 My name is |2!¥απαDΔ
 - 💌 I am 18 years old 
 - 👨‍💻 I am not programmer
-- 🎧 My hobby is lying down
+- 🔕 My hobby is lying down
 
 </p>
 
