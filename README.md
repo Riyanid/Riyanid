@@ -35,7 +35,7 @@
   <img src="https://telegra.ph/file/750ebbc3dfcb4ddee3164.jpg" />
 </p>                                                                               
 </p>
-                 [ANDAIKAN YA GES:V](https://www.youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw)           </p>                                                
+                 [ANDAIKAN YA GES](https://www.youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw)           </p>                                                
 ------
 
 ### Spotify Playing 🎧
