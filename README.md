@@ -27,11 +27,13 @@
   <a href="https://komarev.com/ghpvc/?username=zeeone-ofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeone-ofc&color=green&style=flat-square&label=Profile+View"></a>
 </p>
                                                                                     
- ### YouTube
+ ### YouTube                                                                         
 <p align="center">
   <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_120153.gif" />
-</p>  
-                                                                             
+</p>                                                                               
+<p align="center">
+  <img src="https://telegra.ph/file/750ebbc3dfcb4ddee3164.jpg" />
+</p>                                                                               
 
 ------
 
