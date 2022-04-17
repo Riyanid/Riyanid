@@ -36,11 +36,6 @@
 <p align="center">
   <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_120153.gif" />
 </p>                                                                               
-<p align="center">
-  <img src="https://telegra.ph/file/750ebbc3dfcb4ddee3164.jpg" />
-</p>                                                                               
-                      ANDAIKANN ITU GE:V                                   
-------
 
 ### Spotify Playing 🎧
 
