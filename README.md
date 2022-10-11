@@ -1,8 +1,5 @@
 <p align="center">
-  <a href="https://github.com/WH-MODS-BOT"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=RUBOT-X+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+WH+MODS+DEV;DI+Colong+Oleh+Ryanada:v;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+github;polow+laa" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+My+github;Jangan+Berat+TAngan;Sekalian+Pollow+Ngapa:;" />
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Jan+Lupa+Pollow:v" />
 </p>
