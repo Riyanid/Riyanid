@@ -2,9 +2,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+My+github;Jangan+Berat+Tangan;Sekalian+Pollow+Ngapa:v;" />
 
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
-<p align="center">
-  <img src="https://github.com/Riyanid/Riyanid/blob/main/ya.gif" />
-</p> 
+## My Profile
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
+
+---
+
+## Info
 
 ```bash
 (
