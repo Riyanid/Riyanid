@@ -16,7 +16,7 @@
        "Name": "Ryanada",
        "Status": "Online",
        "Alamat": "Jawa Barat, Karawang",
-       "Program": "not fount"
+       "Program": "Not Found"
   }
 )
 ```
