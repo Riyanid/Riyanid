@@ -9,10 +9,10 @@
 ```bash
 (
   {
-       "Name": "AmmarBN",
+       "Name": "Ryanada",
        "Status": "Online",
-       "Alamat": "Semarang, Indonesia",
-       "Program": "Python 3.9"
+       "Alamat": "Jawa Barat, Karawang",
+       "Program": "not fount"
   }
 )
 ```
