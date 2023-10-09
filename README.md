@@ -6,16 +6,16 @@
   <img src="https://github.com/Riyanid/Riyanid/blob/main/ya.gif" />
 </p> 
 
-<p align="center">
-
-- 👤 My name is |2!¥απαDΔ
-- 💌 I am 20 years old 
-- 👨‍💻 I am not programmer 
-- 👨‍💻 I am is kang recode
-- 🔕 My hobby is lying down
-
-</p>
-
+```bash
+(
+  {
+       "Name": "AmmarBN",
+       "Status": "Online",
+       "Alamat": "Semarang, Indonesia",
+       "Program": "Python 3.9"
+  }
+)
+```
 ------
 ### Connect with me ☎️
 <p align="center">
