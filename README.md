@@ -32,12 +32,7 @@
   <a href="https://github.com/Riyanid"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://www.youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=zeeone-ofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeone-ofc&color=green&style=flat-square&label=Profile+View"></a>
-</p>
-                                                                                    
- ### YouTube                                                                         
-<p align="center">
-  <img src="https://github.com/Riyanid/Riyanid/blob/main/20220307_120153.gif" />
-</p>                                                                               
+</p>                                                                       
 
 ### Spotify Playing 🎧
 
