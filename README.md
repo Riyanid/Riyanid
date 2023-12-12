@@ -31,7 +31,7 @@
   <a name=ZeeoneOfc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/Riyanid"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://www.youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=zeeone-ofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeone-ofc&color=green&style=flat-square&label=Profile+View"></a>
+  <a href="https://komarev.com/ghpvc/?username=riyanid&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=riyanid&color=green&style=flat-square&label=Profile+View"></a>
 </p>                                                                       
 
 ### Spotify Playing 🎧
