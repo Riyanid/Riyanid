@@ -63,7 +63,7 @@
 </details> 
 
 ### Donate
-- [Saweria](https://saweria.co/Riyanid)
+- [Saweria](https://saweria.co/IyansMD)
 - [Dana](https://telegra.ph/file/096d42dedcddef8085691.jpg)
 - [Ovo](https://telegra.ph/file/986bb741b0c1f7517972f.jpg)
 - [Qris](https://telegra.ph/file/cb879819dbed154671d86.jpg)
