@@ -64,6 +64,6 @@
 
 ### Donasi La Wee Buat Udud:V
 - [Saweria](https://saweria.co/IyansMD)
-- [Dana](https://telegra.ph/file/096d42dedcddef8085691.jpg)
-- [Ovo](https://telegra.ph/file/986bb741b0c1f7517972f.jpg)
-- [Qris](https://telegra.ph/file/cb879819dbed154671d86.jpg)
+- [Dana](https://telegra.ph/file/0180a2ffaa5b0e38190da.jpg)
+- [Ovo](https://telegra.ph/file/c1c731ade61ffb6259b2a.jpg)
+- [Qris](https://telegra.ph/file/370d9f88d52a546c0064e.jpg)
