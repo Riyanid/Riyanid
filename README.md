@@ -62,7 +62,7 @@
 
 </details> 
 
-### Donate
+### Donasi La Wee Buat Udud:V
 - [Saweria](https://saweria.co/IyansMD)
 - [Dana](https://telegra.ph/file/096d42dedcddef8085691.jpg)
 - [Ovo](https://telegra.ph/file/986bb741b0c1f7517972f.jpg)
